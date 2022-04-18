@@ -223,7 +223,6 @@ section {
 
 
 
-
 /*--------------------------------------------------------------
 # Map
 --------------------------------------------------------------*/
@@ -252,7 +251,9 @@ section {
 
 #footer input {
   border-width: 0px;
-  border-bottom-width: 2px ;
+  border-bottom-width: 2px;
+  width: 100%;
+  text-align: center;
 }
 
 #footer h2 {
