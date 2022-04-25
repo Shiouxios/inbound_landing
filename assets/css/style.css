@@ -72,6 +72,11 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   position: relative;
   text-align: center;
 }
+
+#hero-no-slider a.scroll-links {
+  color: black;
+}
+
 #hero-no-slider::before {
   content: "";
   position: relative;
@@ -218,11 +223,11 @@ section {
   padding-bottom: 30px;
 }
 
-#footer input {
+#collectors input {
   border-width: 0px;
   border-bottom-width: 2px;
-  width: 100%;
-  text-align: center;
+  /* width: 100%; */
+  /* text-align: center; */
 }
 
 #footer h2 {
